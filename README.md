@@ -105,6 +105,8 @@ FOREACH (genre IN split(row.genres, '|') |
 -----
 
 **Database visualisation in Table :**
+
+
 ![Sample Output](images/img2.png)
 
 -----
