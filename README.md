@@ -1,4 +1,4 @@
-# 🚀 Graph RAG — Neo4j + Gemma (Groq)
+# 🚀 Graph RAG — Neo4j + Gemma (Groq) + Langchain
 
 A **Graph-based Retrieval-Augmented Generation** system that ingests documents, builds a **Neo4j knowledge graph** with Cypher, and uses **Gemma** on the **Groq platform** for fast, accurate, relationship-aware question answering.
 
